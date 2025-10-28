@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "164909988157",
+    "project_id": "safekey-felipe-001",
+    "storage_bucket": "safekey-felipe-001.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164909988157:android:161c9cd93cb839833bad54",
+        "android_client_info": {
+          "package_name": "com.example.safekey_flutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164909988157-6qkneikefo4ht0l6g0evfscou46qmu3g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-IjjPN6XxeRe8yttf9Ai68mthSiQmdz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164909988157-6qkneikefo4ht0l6g0evfscou46qmu3g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:164909988157:android:66ad1fad1849e9693bad54",
+        "android_client_info": {
+          "package_name": "com.felipe.safekey"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "164909988157-6qkneikefo4ht0l6g0evfscou46qmu3g.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-IjjPN6XxeRe8yttf9Ai68mthSiQmdz8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "164909988157-6qkneikefo4ht0l6g0evfscou46qmu3g.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
