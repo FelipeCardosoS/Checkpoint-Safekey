@@ -3,6 +3,9 @@
 Aplicativo Flutter integrado ao Firebase para **gerar, armazenar e gerenciar senhas fortes**.  
 Desenvolvido como parte do Checkpoint de Flutter — 2º semestre.
 
+Link da apresentação do projeto:
+https://youtu.be/AO7LNAlbbAI
+
 ---
 
 ## 🚀 Funcionalidades
